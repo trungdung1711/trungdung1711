@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @trungdung1711
-- 👀 I’m interested in nothing
+- 👋 こんにちは、ズンです。
+- 👀 興味は日本語です。
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on money
 - 📫 How to reach me hell-101
