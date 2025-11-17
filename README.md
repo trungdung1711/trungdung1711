@@ -1,9 +1,9 @@
 # Hi there 👋  
-I'm Trung Dung (ズン) 🌟  
+I'm Dung 🌟  
 A passionate computer science student who wants to understand the core and basic concepts of computers.  
 
-- 🔭 Working on exciting projects about applications and web applications.
-- 🌱 Currently exploring microservices architecture and AI.
+- 🔭 .
+- 🌱 .
 - 📫 Reach me at trungdunglebui17112004@gmail.com or dung.lebk2210573@hcmut.edu.vn
 
 ### 🌟 Featured Projects:
