@@ -4,12 +4,7 @@ A passionate computer science student who wants to understand the core and basic
 
 - 🔭 .
 - 🌱 .
-- 📫 Reach me at trungdunglebui17112004@gmail.com or dung.lebk2210573@hcmut.edu.vn
-
-### 🌟 Featured Projects:
-- **[Pipe Puzzle AI Agent](https://github.com/trungdung1711/puzzle-pipes):** Leveraging search algorithms to solve puzzle challenges.
-- **[BitTorrent-like File Sharing App](https://github.com/trungdung1711/simple-bittorrent-apps):** A simple bitTorrent-like file sharing system using socket programming
-- **[simple-todo](https://github.com/trungdung1711/simple-todo):** A Java-based to-do list application to manage your tasks efficiently.
+- 📫 Reach me at trungdunglebui17112004@gmail.com
 
 ### Skills & Tools:
 `Java` `Python` `Maven`  
