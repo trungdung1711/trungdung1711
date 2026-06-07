@@ -2,8 +2,6 @@
 I'm Dung 🌟  
 A passionate computer science student who wants to understand the core and basic concepts of computers.  
 
-- 🔭 .
-- 🌱 .
 - 📫 Reach me at trungdunglebui17112004@gmail.com
 
 ### Skills & Tools:
