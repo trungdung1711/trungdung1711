@@ -1,6 +1,6 @@
 # Hi there 👋
 I'm Dung 🌟
 
-- 🧑‍🎓 A passionate computer science student
-- 📫 Reach me at dung.le.bui.trung@gmail.com
+- 🧑‍🎓 Computer science student
 - 🙇 Thank you for viewing my profile
+- 📫 Reach me at dung.le.bui.trung@gmail.com
